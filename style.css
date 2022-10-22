@@ -27,3 +27,6 @@ canvas{
     font-weight: bold;
     font-size: 20px;
 }
+.background{
+    size: cover;
+}
